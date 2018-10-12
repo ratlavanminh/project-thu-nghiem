@@ -1,1 +1,2 @@
-them mot dong moi vao file goc
+B da forked tu A 
+và muốn thêm một dòng
